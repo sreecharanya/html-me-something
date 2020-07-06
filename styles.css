@@ -8,21 +8,21 @@ h1{
 color:blue;
 }
 body  {
-  background-image: url("C:\Users\vggan\lc101\html-me-something\images\heart.jpg");
+  background-color:#ffb3b3;
 
 }
 
 .alc{
   background-color:#99ccff;
     }
+
 #firstname {
   background-color:yellow;
 }
 .hero-image {
-  background-image: url("C:\Users\vggan\lc101\html-me-something\images\heart.jpg");
   background-color: #cccccc;
   height: 500px;
-  background-position: center;
+  background-position: top right corner;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
