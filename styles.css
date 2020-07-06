@@ -1,0 +1,49 @@
+
+<style>
+h3{
+color:beige;
+}
+
+h1{
+color:blue;
+}
+body  {
+  background-image: url("C:\Users\vggan\lc101\html-me-something\images\heart.jpg");
+
+}
+
+.alc{
+  background-color:#99ccff;
+    }
+#firstname {
+  background-color:yellow;
+}
+.hero-image {
+  background-image: url("C:\Users\vggan\lc101\html-me-something\images\heart.jpg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+p {
+  color:brown;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-right: 10px;
+  margin-left: 15px;
+}
+div {
+border: 1px solid black;
+background-color=red;
+  padding-top: 25px;
+  padding-right: 15px;
+  padding-bottom: 25px;
+  padding-left: 15px;
+ 
+}
+
+
+</style>
