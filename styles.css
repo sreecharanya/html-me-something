@@ -8,24 +8,28 @@ h1{
 color:blue;
 }
 body  {
-  background-color:#ffb3b3;
-
+  background-image:url("./images/heart.jpg");
+background-repeat :no-repeat;
+background-size:cover;
 }
 
 .alc{
   background-color:#99ccff;
+border: 1px solid black;
+background-color=red;
+  padding-top: 25px;
+  padding-right: 15px;
+  padding-bottom: 25px;
+  padding-left: 15px;
+ 
     }
 
 #firstname {
   background-color:yellow;
 }
-.hero-image {
-  background-color: #cccccc;
-  height: 500px;
-  background-position: top right corner;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
+.cha{
+align:right;
+
 }
 
 p {
@@ -35,14 +39,8 @@ p {
   margin-right: 10px;
   margin-left: 15px;
 }
-div {
-border: 1px solid black;
-background-color=red;
-  padding-top: 25px;
-  padding-right: 15px;
-  padding-bottom: 25px;
-  padding-left: 15px;
- 
+.ssl{
+width:100%;display:flex;
 }
 
 
