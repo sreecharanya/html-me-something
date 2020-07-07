@@ -4,19 +4,27 @@ h3{
 color:beige;
 }
 
-h1{
-color:blue;
+
+
+
+#titles{
+text-align: center;
+color:maroon;
+font-size:36px;
 }
 body  {
   background-image:url("./images/heart.jpg");
-background-repeat :no-repeat;
-background-size:cover;
+  background-size:cover;
+}
+p{
+font-size:20px;
 }
 
+
 .alc{
+  font-size:25px;
   background-color:#99ccff;
-border: 1px solid black;
-background-color=red;
+  border: 1px solid black;
   padding-top: 25px;
   padding-right: 15px;
   padding-bottom: 25px;
@@ -26,10 +34,24 @@ background-color=red;
 
 #firstname {
   background-color:yellow;
+  font-size:25px;
+}
+#headings{
+text-align: center;
+padding-right:250px;
+padding-left: 150px;
+marigin-right:500px;
+ margin-left: 150px;
 }
 .cha{
-align:right;
 
+}
+.pho{
+
+padding-right:500px;
+padding-left: 200px;
+marigin-right:750px;
+ margin-left: 250px;
 }
 
 p {
